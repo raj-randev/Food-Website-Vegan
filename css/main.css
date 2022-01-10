@@ -1,0 +1,111 @@
+
+nav a.navbar-brand {
+    padding: 5px 20px;
+    background-color: white;
+    border-radius: 15px;
+    border: 3px solid green;
+}
+nav div ul li {
+    padding-left: 20px;
+}
+nav div ul li a {
+    padding: 0 0 0 15px;
+}
+nav div ul li a i {
+    font-size: 26px;
+    color: green;  
+}
+div.row div.col-lg-8 h2 {
+    padding: 20px 10px;
+}
+div.row div.col-lg-8 p {
+    padding-left: 10px;
+}
+#carouselExampleIndicators {
+    margin-top: 75px;
+}
+.jumbotron {
+    text-align: center;
+    background-color: #f8f9fa;
+    margin-top: 14px;
+    margin-bottom: 4px;
+}
+.card{
+    text-align: center;
+    margin: 10px auto;
+}
+footer {
+    border-top: 3px solid green;
+}
+footer .row ul {
+    padding:20px 0;
+    text-align: center;
+    margin: auto:  
+}
+footer .row ul li {
+    list-style: none;
+    display: inline-flex;
+} 
+footer .row ul li a i{
+    color:green;
+    font-size: 22px;
+    padding:10px;
+}
+footer .row .copy{
+    text-align: center;
+    margin: auto;
+    font-size: 22px;
+}
+div.container div.d-flex img {
+    border:3px solid white;
+}
+#gallery {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+div.container div.row div.map-cont {
+    border: 4px solid #008000;
+    background-color: #7ec9f0;
+    margin: 20px 0;
+    border-radius: 10px 10px 10px 10px;
+}
+div.container div.row div.map-cont svg a path{
+    fill: #008000;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-width: 1.5px;
+}
+
+div.container div.row div.map-cont svg a path:hover {
+    fill-opacity: 0.4;
+    stroke-width: 3.5px;
+}
+svg, .panzoom {
+    display:block;
+    width:100%;
+    height: 100%;
+}
+div.nav-con {
+    background-color: #008000; 
+    margin: 20px auto;     
+}
+div.container div.row div.col-sm-12 ul#a-znav {
+    list-style: none; 
+    text-align: center;
+    margin: 0;
+    padding: 15px 0;
+}
+div.container div.row div.col-sm-12 ul#a-znav li {
+    display: inline;
+}
+div.container div.row div.col-sm-12 ul#a-znav li a {
+    color: #ffffff;
+    font-size: 25px;
+    padding: 9px;
+}
+div.container div.row span.anchor {
+    display: block;
+    height: 62px; 
+    margin-top: -62px; 
+    visibility: hidden;  
+}
